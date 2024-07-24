@@ -42,7 +42,7 @@ Kenapa semua jadi ribet? Karena ini permintaan ortu. Dia punya alasannya sendiri
 
 Dari situlah ide Swalayand: otomatisasi proses ribet di atas. Pakai timbangan. Karena itu teknologi yang sudah dipakai, sehingga bisa dimulai dari situ.
 
-Saya mulai beli timbangan yang persis dengan punyanya tukang sayur. Bentuk percontohan barangnya [seperti ini](https://github.com/Swalayand/catetin/blob/main/images/photo_2021-07-05_14-14-28.jpg). Hanya bisa nampilin semua angka yang ada di timbangan. Itulah kenapa namannya Catetin.
+Saya mulai beli timbangan yang persis dengan punyanya tukang sayur. Bentuk percontohan barangnya [seperti ini](https://github.com/Swalayand/catetin/blob/main/images/photo_2021-07-05_14-14-28.jpg). Cuma bisa nampilin semua angka yang ada di timbangan. Itulah kenapa namannya Catetin.
 
 #### Keuntungan untuk produsen
 
@@ -54,31 +54,29 @@ Ha? Ada ya orang gak dapet duit bukan karena gak punya barang.
 
 Sudah pernah dengar sih. Dari teori marketing dan bisnis. Tapi mengalami langsung selalu lebih berkesan. Apalagi waktu itu. Ide Swalayand sudah mengendap dua tahun. 
 
-Dari situ kepikir: ngumpulin data. Untuk membantu produsen merencanakan proses _end-to-end_ dengan lebih tepat. 
+Dari situ kepikir: ngumpulin data. Bantu produsen merencanakan proses _end-to-end_ dengan lebih optimal. 
 
-Karena makin tidak tepat produsen berarti ada logistik yang harusnya nganterin barang tapi jadi diam. 
-
-Sekarang Catetin bukan bisa ngirim angka yang ada di timbangan. 
+Sekarang Catetin bukan cuma bisa ngirim angka yang ada di timbangan. 
 
 Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Memang. Tapi gambaran bisnis sudah ada.
 
 #### Keuntungan untuk entrepreneur 
 
-Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak softwarenya saja open-source, dan memonetisasi penjualan hardware?
+Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak softwarenya saja open-source? Hardwarenya dijual?
 
-Karena walaupun ada yang bisa diperbaiki, proses yang ada sekarang sudah benar. Yang diperlukan adalah optimasi. Supaya semua tetap untung. Jadi paling baik diserahkan kepada yang berpengalaman. Dan saya tidak bisa menjangkau orang yang berpengalaman itu satu demi satu. 
+Karena walaupun ada yang bisa diperbaiki, proses yang ada sekarang sudah benar. Yang diperlukan adalah optimasi. Supaya semua tetap untung. Jadi paling baik diserahkan kepada yang berpengalaman. 
 
 Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba atau _business pitch_. (Lomba IoT, hackathon, dan semacamnya). Karena saya hidup di dunia moderen. Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya.
 
-Tapi kayak-kayaknya mayoritas juga salah paham (buktinya yang kaya masih bukan mayoritas): Mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan membuat dunia jadi sangat-sangat-sangat kaya. 
+Tapi kayak-kayaknya mayoritas juga salah paham (buktinya yang kaya masih bukan mayoritas): Mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan bikin dunia jadi sangat-sangat-sangat kaya. 
 
-Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan Spacex buat nginep di Mars. Jadi gak terlalu berguna jadi orang kaya SEKARANG BANGET. (Bagus ada orang-orang semacam Elon Musk yang ngerti konsep ini).
+Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan Spacex booking hotel di Mars. Jadi gak terlalu berguna jadi orang kaya SEKARANG BANGET. (Bagus ada orang-orang semacam Elon Musk yang ngerti konsep ini).
 
-Dan membuat dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa bakal ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
+Dan bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa bakal ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
 
 Jadi semoga ada anak SMK atau SMA desa mana yang melanjutkan ide Swalayand ini. Bekerja sama dengan pamannya yang petani. Juga dengan tetangganya yang tukang sayur. 
 
-Karena untuk membuat dunia menjadi kaya salah satunya adalah tidak membuang sumber daya. 
+Karena untuk bikin dunia jadi kaya salah satunya adalah tidak membuang sumber daya. 
 
 #### Syarat sukses Swalayand
 
