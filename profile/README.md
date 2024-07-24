@@ -60,15 +60,15 @@ Karena makin tidak tepat produsen berarti ada logistik yang harusnya nganterin b
 
 Sekarang Catetin bukan bisa ngirim angka yang ada di timbangan. 
 
-Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Memang. Tapi dari sini saja sudah ada gambaran bisnisnya.
+Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Memang. Tapi gambaran bisnis sudah ada.
 
 #### Keuntungan untuk entrepreneur 
 
-Kenapa hardware dan softwarenya dibuat open-source? Bukannya gak memonetisasi penjualan hardware?
+Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak softwarenya saja open-source, dan memonetisasi penjualan hardware?
 
-Karena yang ada sekarang sudah benar. Yang diperlukan adalah optimasi. Supaya semua tetap untung. Jadi paling baik diserahkan kepada yang berpengalaman. Dan saya tidak bisa menjangkau orang yang berpengalaman itu satu demi satu. 
+Karena walaupun ada yang bisa diperbaiki, proses yang ada sekarang sudah benar. Yang diperlukan adalah optimasi. Supaya semua tetap untung. Jadi paling baik diserahkan kepada yang berpengalaman. Dan saya tidak bisa menjangkau orang yang berpengalaman itu satu demi satu. 
 
-Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba atau _business pitch_. (Lomba IoT, hackathon, dan semacamnya). Karena saya gak perlu afirmasi. Untuk membuat saya lebih yakin. Bahwa satu yang bagus dari dunia moderen: mayoritas orang pengen kaya.
+Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba atau _business pitch_. (Lomba IoT, hackathon, dan semacamnya). Karena saya hidup di dunia moderen. Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya.
 
 Tapi kayak-kayaknya mayoritas juga salah paham (buktinya yang kaya masih bukan mayoritas): Mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan membuat dunia jadi sangat-sangat-sangat kaya. 
 
