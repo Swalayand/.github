@@ -56,7 +56,7 @@ Sudah pernah dengar sih. Dari teori marketing dan bisnis. Tapi mengalami langsun
 
 Dari situ kepikir: ngumpulin data. Bantu produsen merencanakan proses _end-to-end_ dengan lebih optimal. 
 
-Sekarang Catetin bukan cuma bisa ngirim angka yang ada di timbangan. 
+Sekarang Catetin bisa ngirim angka yang ada di timbangan. 
 
 Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Memang. Tapi gambaran bisnis sudah ada.
 
