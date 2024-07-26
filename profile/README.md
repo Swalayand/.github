@@ -64,7 +64,9 @@ Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Meman
 
 Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak softwarenya saja open-source? Hardwarenya dijual?
 
-Karena walaupun ada yang bisa diperbaiki, proses yang ada sekarang sudah benar. Yang diperlukan adalah optimasi. Supaya semua tetap untung. Jadi paling baik diserahkan kepada yang berpengalaman. 
+Alasan pertama: karena belum ada di pasaran.
+
+Kedua: supaya semua tetap untung. Kita beroperasi pada: yang butuh akan nyari.
 
 Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba atau _business pitch_. (Lomba IoT, hackathon, dan semacamnya). Karena saya hidup di dunia moderen. Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya.
 
@@ -72,7 +74,7 @@ Tapi kayak-kayaknya mayoritas juga salah paham (buktinya yang kaya masih bukan m
 
 Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan Spacex booking hotel di Mars. Jadi gak terlalu berguna jadi orang kaya SEKARANG BANGET. (Bagus ada orang-orang semacam Elon Musk yang ngerti konsep ini).
 
-Dan bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa bakal ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
+Dan bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa akan ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
 
 Jadi semoga ada anak SMK atau SMA desa mana yang melanjutkan ide Swalayand ini. Bekerja sama dengan pamannya yang petani. Juga dengan tetangganya yang tukang sayur. 
 
