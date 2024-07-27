@@ -56,29 +56,30 @@ Sudah pernah dengar sih. Dari teori marketing dan bisnis. Tapi mengalami langsun
 
 Dari situ kepikir: ngumpulin data. Bantu produsen merencanakan proses _end-to-end_ dengan lebih optimal. 
 
-Sekarang Catetin bisa ngirim angka yang ada di timbangan. 
+Sekarang Catetin bisa ngirim angka yang ada di timbangan. Walaupun cuma angka. Itu angka sawi atau wortel masih perlu proses tambahan. Memang. 
 
-Walaupun masih perlu proses tambahan untuk bisa tahu itu wortel atau sawi. Memang. Tapi gambaran bisnis sudah ada.
+Tapi gambaran besarnya sudah ada.
 
 #### Keuntungan untuk entrepreneur 
 
-Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak softwarenya saja open-source? Hardwarenya dijual?
+Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak dibuka softwarenya saja? Hardwarenya dijual?
 
-Alasan pertama: karena belum ada di pasaran.
+Alasan pertama: apa yang diniatkan Swalayand belum ada di luar sana.
 
-Kedua: supaya semua tetap untung. Kita beroperasi pada: yang butuh akan nyari.
+Kedua: supaya semua tetap untung. Kita beroperasi pada prinsip "yang butuh akan nyari."
 
-Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba atau _business pitch_. (Lomba IoT, hackathon, dan semacamnya). Karena saya hidup di dunia moderen. Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya.
+Ketiga: urusan _timing_. Saya pribadi menahan diri. Pun sampai sekarang. Untuk memasukkan Swalayand dalam lomba, _hackathon_, dan semacamnya. Karena dalam urusan bisnis saya rasa mayoritas orang salah paham. (Buktinya orang kaya masih bukan mayoritas)
 
-Tapi kayak-kayaknya mayoritas juga salah paham (buktinya yang kaya masih bukan mayoritas): Mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan bikin dunia jadi sangat-sangat-sangat kaya. 
+Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya. Tapi mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan bikin dunia jadi sangat-sangat-sangat kaya. 
 
-Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan Spacex booking hotel di Mars. Jadi gak terlalu berguna jadi orang kaya SEKARANG BANGET. (Bagus ada orang-orang semacam Elon Musk yang ngerti konsep ini).
+Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan SpaceX _booking_ hotel di Mars. Jadi gak terlalu berguna kaya SEKARANG BANGET. 
+(Bagus ada orang-orang semacam Elon Musk yang mengerti konsep ini).
 
-Dan bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa akan ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
+Padahal bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa akan ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
 
 Jadi semoga ada anak SMK atau SMA desa mana yang melanjutkan ide Swalayand ini. Bekerja sama dengan pamannya yang petani. Juga dengan tetangganya yang tukang sayur. 
 
-Karena untuk bikin dunia jadi kaya salah satunya adalah tidak membuang sumber daya. 
+Karena untuk bikin dunia jadi kaya salah satunya adalah dengan mengoptimalkan sumber daya. Dimulai dari jangan sampai ada cabai terbuang, Hashtag Cabai Juga Sumber Daya.
 
 #### Syarat sukses Swalayand
 
@@ -88,7 +89,7 @@ Karena untuk bikin dunia jadi kaya salah satunya adalah tidak membuang sumber da
 
 #### Langkah selanjutnya
 
-Saya akan bikin lapak sendiri. Kalau waktu mengijinkan. Eksperimen: bizpro dan teknologi seperti apa yang paling optimal.
+Saya akan bikin lapak sendiri. Kalau waktu mengijinkan. Untuk eksperimen: bizpro dan teknologi seperti apa yang paling optimal.
 
 #### Terimakasih
 
