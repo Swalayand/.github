@@ -26,9 +26,7 @@ sequenceDiagram
     Saya->>Ortu: Kembalikan kertas pesanan dengan harga
 ```
 
-Saya dikasih kertas isinya pesanan. Kadang kertas ini gak cuma satu. Misal wortel harus dibeli di tukang sayur A. Karena asumsinya wortel lebih segar di situ. Ikan di tempat B.
-
-Kertas ini saya kasih ke tukang sayur. Proses setelahnya persis seperti diagram di atas.
+Saya dikasih kertas isinya pesanan. Kertas ini saya kasih ke tukang sayur. Proses setelahnya persis seperti diagram di atas.
 
 **Tl;dr semua pihak saling merasa gak enak.**
 
@@ -39,6 +37,8 @@ Ibu-ibu yang ngantri juga gak enak. Karena saya ngambil waktu tukang sayur terla
 Si pelayan toko juga kayaknya jadi merasa gak enak. Ke dua pihak lainnya: saya dan semua ibu-ibu yang nahan marah itu. Karena memuaskan sebanyak mungkin orang adalah karakter pedagang.
 
 Kenapa semua jadi ribet? Karena ini permintaan ortu. Dia punya alasannya sendiri. Tapi yang jelas saya jadi gak bisa pulang tanpa harga-harga itu selesai ditulis dan dijumlahkan.
+
+Dan kejadian gak enak tadi itu kadang terjadi di beberapa tempat. Karena kertas belanjaannya gak cuma satu. Misal wortel harus dibeli di tukang sayur A. Karena asumsinya wortel lebih segar di situ. Terus ikan di tempat B.
 
 Dari situlah ide Swalayand: otomatisasi proses ribet di atas. Pakai timbangan. Karena itu teknologi yang sudah dipakai, sehingga bisa dimulai dari situ.
 
