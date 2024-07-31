@@ -62,7 +62,7 @@ Tapi gambaran besarnya sudah ada.
 
 #### Keuntungan untuk entrepreneur 
 
-Kenapa [hardware]() dan [softwarenya]() open-source? Kenapa gak dibuka softwarenya saja? Hardwarenya dijual?
+Kenapa [hardware dan softwarenya](https://github.com/Swalayand/sniffrr) open-source? Kenapa gak dibuka softwarenya saja? Hardwarenya dijual?
 
 Alasan pertama: apa yang diniatkan Swalayand belum ada di luar sana.
 
@@ -72,7 +72,7 @@ Ketiga: urusan _timing_. Saya pribadi menahan diri. Pun sampai sekarang. Untuk m
 
 Satu yang bagus dari dunia moderen: mayoritas orang pengen kaya. Tapi mereka ingin memperkaya diri sendiri. Padahal cara terbaik jadi kaya adalah dengan bikin dunia jadi sangat-sangat-sangat kaya. 
 
-Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan SpaceX _booking_ hotel di Mars. Jadi gak terlalu berguna kaya SEKARANG BANGET. 
+Bukan cuma gitu. Mereka pengen BANGET. Jadinya malah menyiksa diri sendiri: buru-buru. Padahal sekaya-kayanya Sandi Uno sekarang, gak bisa buka Traveloka pesan SpaceX _booking_ hotel di Mars. Artinya gak terlalu berguna jadi orang kaya SEKARANG BANGET. 
 (Bagus ada orang-orang semacam Elon Musk yang mengerti konsep ini).
 
 Padahal bikin dunia jadi sangat kaya itu strategi yang sukses. Lihat Joyoboyo. Dia aja cuma meramal "Tanah jawa kalungan wesi" (tanah jawa akan ada kalung besinya / kereta). Tapi sesakti-saktinya dia di jaman 1135 gak bisa beli tiket kereta cepat Bandung dengan harga 250k pake Android di layar silicon 6,8 inci.
