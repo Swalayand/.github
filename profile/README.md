@@ -56,9 +56,7 @@ Sudah pernah dengar sih. Dari teori marketing dan bisnis. Tapi mengalami langsun
 
 Dari situ kepikir: ngumpulin data. Bantu produsen merencanakan proses _end-to-end_ dengan lebih optimal. 
 
-Sekarang Catetin bisa ngirim angka yang ada di timbangan. Walaupun cuma angka. Itu angka sawi atau wortel masih perlu proses tambahan. Memang. 
-
-Tapi gambaran besarnya sudah ada.
+Dari situ maka gambaran besarnya terbentuk.
 
 #### Keuntungan untuk entrepreneur 
 
