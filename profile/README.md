@@ -93,4 +93,4 @@ Saya akan bikin lapak sendiri. Kalau waktu mengijinkan. Untuk eksperimen: bizpro
 
 #### Terimakasih
 
-Terimakasih [@mamangopik](https://github.com/mamangopik/), Faaiz Ahsan, Fauzan Askarillah dan semua orang yang mau membersamai saya dalam proses awal yang sulit.
+Terimakasih [@mamangopik](https://github.com/mamangopik/), [@faaiz282](https://github.com/faaiz282), Fauzan Askarillah dan semua orang yang mau membersamai saya dalam proses awal yang sulit.
